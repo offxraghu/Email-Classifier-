@@ -1,0 +1,21 @@
+Spam Messages:
+
+"URGENT: Your account has been compromised. Click the link to reset your password immediately."
+"Congratulations! You've won $100,000. Claim your prize now by providing your personal information."
+"Your PayPal account has been temporarily suspended due to suspicious activity. Please click the link to verify your identity."
+"Your bank account has been charged for an unauthorized transaction. Call our customer service immediately to resolve this issue."
+"Your subscription to our premium streaming service has expired. Renew now to continue enjoying your favorite shows."
+"You've been selected as a beta tester for a new app. Download now and get exclusive access to features before anyone else."
+"Get a loan with no credit check! Guaranteed approval. Apply now and get cash within hours."
+
+
+Not Spam (Ham) Messages:
+
+"Hi there, just wanted to remind you about our meeting tomorrow at 3 PM. See you then!"
+"Hey, I saw this book and thought you might like it. It's called 'The Alchemist' by Paulo Coelho."
+"Happy birthday! Wishing you a fantastic day filled with joy and celebration."
+"The weather looks great this weekend. Let's plan a picnic on Sunday."
+"Thank you for your order. Your package will be delivered on Friday. Here's your tracking number."
+"Limited time offer: Buy one, get one free on all products. Shop now at our website."
+Lose weight fast with our miracle diet pills. Get the body you've always dreamed of!
+"Your recent purchase of a smartphone has been confirmed. Click here to track your order and confirm delivery details."
